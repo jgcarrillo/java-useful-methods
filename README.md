@@ -35,7 +35,7 @@ Useful methods for Java students.
 
 ### List of improvements 🎈🎈
 
-[-] Clean Code
-[-] Improve Language
-[-] Better doc
+* [-] Clean Code
+* [-] Improve Language
+* [-] Better doc
 
