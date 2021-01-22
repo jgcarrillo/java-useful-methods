@@ -35,7 +35,7 @@ Useful methods for Java students. An unordered list of methods used in my Web De
 29. [int Array](#int-array)
 30. [Show int Array](#show-int-array)
 31. [Fill Array](#fill-array)
-32. [Fill Array in a range indexA](#fill-array-in-a-range-index)
+32. [Fill Array in a range index](#fill-array-in-a-range-index)
 
 ### 🎈🎈 List of improvements 
 
