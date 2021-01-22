@@ -286,4 +286,34 @@ public class UsefulMethods {
 
         return fechaCorrecta;
     }
+
+    public static int[] introducirEnterosVector(int elementos){
+        int vector[] = new int[elementos];
+        Scanner entrada = new Scanner(System.in);
+
+        for(int i = 0; i < vector.length; i++){
+            System.out.println("Introduce el elemento -> " + (i + 1) + ":");
+            vector[i] = entrada.nextInt();
+        }
+
+        return vector;
+    }
+
+    public static void mostrarVectoresEnteros(int vector[]){
+        for(int elemento : vector){
+            System.out.print(elemento + "\t");
+        }
+    }
+
+    public static void rellenarEnteros(int v[], int numero){
+        for(int i = 0; i < v.length; i++){
+            v[i] = numero;
+        }
+    }
+
+    public static void rellenarEnteros(int v[], int primero, int ultimo, int numero){
+        for(int i = primero; i < ultimo; i++){
+            v[i] = numero;
+        }
+    }
 }

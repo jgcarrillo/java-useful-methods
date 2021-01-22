@@ -1,8 +1,8 @@
-# 🛠🛠 WIP
+## Work in progress
 
-Useful methods for Java students.
+Useful methods for Java students. An unordered list of methods used in my Web Development Course.
 
-## Table of Contents
+### Table of Contents
 
 1. [Odds sum](#odds-sum)
 2. [Show Message](#show-message)
@@ -32,10 +32,14 @@ Useful methods for Java students.
 26. [Show Array](#show-array)
 27. [Leap Year](#leap-year)
 28. [Correct Date](#correct-date)
+29. [int Array](#int-array)
+30. [Show int Array](#show-int-array)
+31. [Fill Array](#fill-array)
+32. [Fill Array in a range indexA](#fill-array-in-a-range-index)
 
-### List of improvements 🎈🎈
+### 🎈🎈 List of improvements 
 
 * [-] Clean Code
 * [-] Improve Language
 * [-] Better doc
-
+* [-] English Language in methods
