@@ -1,4 +1,4 @@
-## Work in progress
+## Java Useful Methods
 
 Useful methods for Java students. An unordered list of methods used in my Web Development Course.
 
@@ -36,10 +36,3 @@ Useful methods for Java students. An unordered list of methods used in my Web De
 30. [Show int Array](#show-int-array)
 31. [Fill Array](#fill-array)
 32. [Fill Array in a range index](#fill-array-in-a-range-index)
-
-### 🎈🎈 List of improvements 
-
-* [-] Clean Code
-* [-] Improve Language
-* [-] Better doc
-* [-] English Language in methods
